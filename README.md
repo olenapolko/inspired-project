@@ -4,7 +4,13 @@ To see a live demo of my app, visit https://olenapolko.github.io/inspired-projec
 
 # Description
 
-Inspired is a photo-sharing platform written in React that allows users to share their photos, like and comment on them, and save them to their own collections. Users can search for photos by name or description and upload their own photos from their computer as well as download them from the app. The app uses React OAuth2 for user authentication and Sanity.io for the backend part. The styles are implemented using Tailwind.css.
+Inspired enables users to interact with a vibrant photo-sharing community. The platform features include:
+
+- Photo Sharing: Upload and share photos with the community.
+- Interactions: Like and comment on photos to engage with other users.
+- Collections: Save your favorite photos to personalized collections.
+- Search: Easily find photos by name or description.
+- Photo Management: Upload photos directly from your computer and download them from the app.
 
 # Technologies
 
